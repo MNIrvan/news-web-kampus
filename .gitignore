@@ -1,0 +1,13 @@
+# ===== Spring Boot =====
+backend/target/
+backend/*.log
+
+# ===== Angular =====
+berita-frontend/node_modules/
+berita-frontend/dist/ 
+
+# ===== IDE & OS =====
+.vscode/
+.idea/
+*.iml
+.DS_Store
